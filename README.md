@@ -3,9 +3,9 @@
 
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in//"><img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in//"><img height="30" src="https://blog.hubspot.com/hs-fs/hub/53/file-23128222-png/blog/images/linkedin-cartoon-sketch-resized-600.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/aman_jainnnn"><img height="30" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-logo-2012.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/amanhenry"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/amanhenry"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsteaGC9HX2M0Q-9T3LQH3Zb8nRw3wvBFEbA&usqp=CAU"></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/aman.jainnnn"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"></a>&nbsp;&nbsp;
  </p>
 
