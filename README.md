@@ -1,5 +1,5 @@
 
-[<img src="https://raw.githubusercontent.com/amanjainn/amanjainn/master/intro.gif" alt="👋 Hi there! I'm (Aman111|nd Li)|https://aman.li)" title="👋 Hi there! I'm (Aman(111|nd Li)|https://aman.li)"/>](https://aman.li/)
+[<img src="https://raw.githubusercontent.com/amanjainn/amanjainn/master/screedbot.gif" alt="👋 Hi there! I'm (Aman111|nd Li)|https://aman.li)" title="👋 Hi there! I'm (Aman(111|nd Li)|https://aman.li)"/>](https://aman.li/)
 <!--
 **amanjainn/amanjainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
