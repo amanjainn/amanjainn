@@ -8,7 +8,15 @@
  <a href="https://www.instagram.com/aman.jainnnn"><img height="30" src=https://www.freedomfcu.org/components/uploads/2020/06/Instagram-icon.png"></a>&nbsp;&nbsp;
  </p>
 
+I'm a Graduate Student in **Robotics, Real-Time Systems [@ECN](https://www.ec-nantes.fr)** in France. I also work as a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**. I will start interning **[@CM-Robotics](https://cm-robotics.com) in Robotics Software Engineering** in March 2021.
 
+<p align="center">
+<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=amanjainn&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 <h3>Things I Can Code With</h3>
 
