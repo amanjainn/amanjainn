@@ -8,7 +8,7 @@
  <a href="https://www.instagram.com/aman.jainnnn"><img height="30" src=https://www.freedomfcu.org/components/uploads/2020/06/Instagram-icon.png"></a>&nbsp;&nbsp;
  </p>
 
-I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://www.bmsce.ac.in)** in Bangalore. I can work as a **Mern Stack Developer**. I love to solve problems and have deep interest in competitive programming. I am currently interning **[@Crio-do](https://www.crio.do/)as a full stack developer**.
+I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://www.bmsce.ac.in)** in Bangalore. I can work as a **Mern Stack Developer**. I love to solve problems and have deep interest in competitive programming. I am currently interning **[@Crio-do](https://www.crio.do/) as a full stack developer**.
 
 <p align="center">
 <img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
