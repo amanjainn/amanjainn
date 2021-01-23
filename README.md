@@ -16,7 +16,13 @@
 
 I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://www.bmsce.ac.in)** in Bangalore. I can work as a **Mern Stack Developer**. I love to solve problems and have deep interest in competitive programming. I am currently interning **[@Crio-do](https://www.crio.do/) as a full stack developer**.
 
+### Talking about Personal Stuffs:
 
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Typescript, Mongodb, Twilio, etc.
+- 🚀 &nbsp; I’m currently acquiring more knowledge on Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/amanjainn).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/amanjainn/amanjainn/issues/1)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 <br/>
 
