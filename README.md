@@ -23,6 +23,7 @@ I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/amanjainn).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/amanjainn/amanjainn/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: jainnnn.aman@gmail.com.
 
 <br/>
 
