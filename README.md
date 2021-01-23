@@ -1,15 +1,5 @@
 
 [<img src="https://raw.githubusercontent.com/amanjainn/amanjainn/master/screedbot.gif" alt="👋 Hi there! I'm (Aman111|nd Li)|https://aman.li)" title="👋 Hi there! I'm (Aman(111|nd Li)|https://aman.li)"/>](https://aman.li/)
-
-
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in//"><img height="30" src="https://howtowritebetter.net/wp-content/uploads/2015/11/HTWB-LinkedIn.jpg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/aman_jainnnn"><img height="30" src="https://cdn3.iconfinder.com/data/icons/sketchy-2/256/social_media_icons_elance_2-05.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/amanhenry"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsteaGC9HX2M0Q-9T3LQH3Zb8nRw3wvBFEbA&usqp=CAU"></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/aman.jainnnn"><img height="30" src=https://www.freedomfcu.org/components/uploads/2020/06/Instagram-icon.png"></a>&nbsp;&nbsp;
- </p>
-
 	
    <img align="right" src="https://media1.tenor.com/images/5eb5f52888234b0329eba8f08a857af1/tenor.gif?itemid=18667654"/>
 
@@ -59,5 +49,10 @@ I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://
   <img alig src="https://github-profile-trophy.vercel.app/?username=amanjainn&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-
+<p align='center'>
+   <a href="https://www.linkedin.com/in//"><img height="30" src="https://howtowritebetter.net/wp-content/uploads/2015/11/HTWB-LinkedIn.jpg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/aman_jainnnn"><img height="30" src="https://cdn3.iconfinder.com/data/icons/sketchy-2/256/social_media_icons_elance_2-05.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/amanhenry"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsteaGC9HX2M0Q-9T3LQH3Zb8nRw3wvBFEbA&usqp=CAU"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/aman.jainnnn"><img height="30" src=https://www.freedomfcu.org/components/uploads/2020/06/Instagram-icon.png"></a>&nbsp;&nbsp;
+ </p>
 ```
