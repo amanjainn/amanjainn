@@ -19,24 +19,35 @@ I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://
 </p>
 
 
-### Languages and Tools
+**Languages and Tools:** 
 
-<img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/cplusplus.svg" alt="Spring" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/c.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/react.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/mysql.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/git.svg" alt="C#" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/firebase.svg" alt="C#" height="40px" />
+<!-- Your github readme stats
+You can use this api: https://github.com/anuraghazra/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="aman's github stats" src="https://github-readme-stats.vercel.app/api?username=amanjainn&show_icons=true&hide_border=true" />
+  </a>
 
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
+   <br />
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+     <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+</p>
 
-<br />
-<br />
-<br />
 
 ```
