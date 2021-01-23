@@ -15,7 +15,7 @@ I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://
 </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=amanjainn&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=amanjainn&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
