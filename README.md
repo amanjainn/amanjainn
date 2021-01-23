@@ -18,12 +18,10 @@ I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://
 
 
 
+<br/>
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="aman's github stats" src="https://github-readme-stats.vercel.app/api?username=amanjainn&show_icons=true&hide_border=true" />
@@ -48,6 +46,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
      <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
+<br/>
 <br/>
 <p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=amanjainn&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
