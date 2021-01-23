@@ -49,6 +49,8 @@ I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://
   <img alig src="https://github-profile-trophy.vercel.app/?username=amanjainn&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
+<br/>
+<br/>
 <p align='center'>
    <a href="https://www.linkedin.com/in//"><img height="30" src="https://howtowritebetter.net/wp-content/uploads/2015/11/HTWB-LinkedIn.jpg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/aman_jainnnn"><img height="30" src="https://cdn3.iconfinder.com/data/icons/sketchy-2/256/social_media_icons_elance_2-05.png"></a>&nbsp;&nbsp;
