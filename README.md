@@ -21,7 +21,7 @@ I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Typescript, Mongodb, Twilio, etc.
 - 🚀 &nbsp; I’m currently acquiring more knowledge on Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/amanjainn).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/amanjainn/amanjainn/issues/1)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/amanjainn/amanjainn/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 <br/>
