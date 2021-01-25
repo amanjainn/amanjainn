@@ -31,6 +31,7 @@ I'm a pre-final Student in **Information Science & Engineering [@BMSCE](https://
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <br />
+  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
